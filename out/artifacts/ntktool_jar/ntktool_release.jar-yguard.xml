@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yguard version="1.5">
+<!--
+  yGuard Bytecode Obfuscator, v2.6, a Product of yWorks GmbH - http://www.yworks.com
+
+  Logfile created on Mon Aug 06 19:35:15 CEST 2018
+
+  Jar file to be obfuscated:           ntktool.jar
+  Target Jar file for obfuscated code: ntktool_release.jar
+
+-->
+<!-- WARNING - identifier from script file not found in JAR: eu/pmc/ntktool/gui/BnGui/main -->
+<!--
+  Memory in use after class data structure built: 220338608 bytes
+  Total memory available                        : 456683520 bytes
+-->
+<expose>
+</expose>
+<map>
+</map>
+</yguard>

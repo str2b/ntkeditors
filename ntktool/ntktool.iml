@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="IntelliGuard" name="Obfuscation">
+      <configuration>
+        <option name="yGuardJar" value="C:\Users\Tobi\Documents\yguard.jar" />
+        <option name="inFile" value="G:\Java\Novatek\projects\out\artifacts\ntktool_jar\ntktool_release.jar" />
+        <option name="outFile" value="G:\Java\Novatek\projects\out\artifacts\ntktool_jar\ntktool_obf.jar" />
+        <option name="mainclass" value="eu.pmc.ntktool.gui.BnGui" />
+        <option name="conservemanifest" value="true" />
+        <option name="jarConfig">
+          <JarConfig>
+            <option name="jarEntries">
+              <list>
+                <option value="G:\Java\Novatek\projects\ntktool\target\classes" />
+              </list>
+            </option>
+            <option name="linkLibraries" value="/" />
+          </JarConfig>
+        </option>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-exec:1.3" level="project" />
+    <orderEntry type="library" name="Maven: javax.activation:activation:1.1.1" level="project" />
+  </component>
+</module>

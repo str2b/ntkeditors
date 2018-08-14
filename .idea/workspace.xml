@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ntktool:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c2cae31-3ba9-4f1f-9401-45e2caee6000" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/ntktool/target/" />
+    <ignored path="$PROJECT_DIR$/stringeditor/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="672733401">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="29" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="3153" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="3153" />
+          <entry key="PLAIN_TEXT" value="29" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="MF" value="2" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="25" />
+          <entry key="xml" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="25" />
+          <entry key="Manifest" value="2" />
+          <entry key="XML" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/gui/QuickBfcPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1496">
+              <caret line="97" column="4" selection-start-line="97" selection-start-column="4" selection-end-line="97" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/gui/ManualBfcPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/gui/BnGui.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/PartitionSeparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="13" column="106" selection-start-line="13" selection-start-column="106" selection-end-line="13" selection-end-column="106" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/natives/NativeBridge.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ntktool/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/natives/wrapper/BfcMode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/natives/wrapper/NtkcalcProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/natives/wrapper/NativeProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/natives/wrapper/BfcProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>system</find>
+      <find>check</find>
+      <find>setTex</find>
+      <find>addM</find>
+      <find>right.add</find>
+      <find>left</find>
+      <find>fa.</find>
+      <find>fa</find>
+      <find>txtadd</find>
+      <find>initg</find>
+      <find>runBtn.</find>
+      <find>geti</find>
+      <find>bnman</find>
+      <find>bnmanager</find>
+      <find>init</find>
+      <find>omot</find>
+      <find>length =</find>
+      <find>Extract</find>
+      <find>ngui</find>
+      <find>initc</find>
+      <find>printnr</find>
+      <find>bfc</find>
+      <find>byte\[\] padding \= \{\n            0x90\, 0xbe\, 0x27\, 0x88\, 0xcd\, 0x36\, 0xc2\, 0x4f\, 0xa9\, 0x87\, 0x73\, 0xa8\, 0x48\, 0x4e\, 0x84\, 0xb1\,\n            0x28\, 0x00\, 0x00\, 0x00\, 0x7e\, 0x3d\, 0x00\, 0x00\, 0x01\, 0x00\, 0x00\, 0x00\, 0x0c\, 0x12\, 0x29\, 0x00\,\n            0x26\, 0xb2\, 0x11\, 0x00\, 0x01\, 0x00\, 0x00\, 0x00\n    \}\;|    byte\[\] padding \= \{\n            0x90\, 0xbe\, 0x27\, 0x88\, 0xcd\, 0x36\, 0xc2\, 0x4f\, 0xa9\, 0x87\, 0x73\, 0xa8\, 0x48\, 0x4e\, 0x84\, 0xb1\,\n            0x28\, 0x00\, 0x00\, 0x00\, 0x7e\, 0x3d\, 0x00\, 0x00\, 0x01\, 0x00\, 0x00\, 0x00\, 0x0c\, 0x12\, 0x29\, 0x00\,\n            0x26\, 0xb2\, 0x11\, 0x00\, 0x01\, 0x00\, 0x00\, 0x00\n    \}\;|    byte\[\] padding \= \{\n            0x90\, 0xbe\, 0x27\, 0x88\, 0xcd\, 0x36\, 0xc2\, 0x4f\, 0xa9\, 0x87\, 0x73\, 0xa8\, 0x48\, 0x4e\, 0x84\, 0xb1\,\n            0x28\, 0x00\, 0x00\, 0x00\, 0x7e\, 0x3d\, 0x00\, 0x00\, 0x01\, 0x00\, 0x00\, 0x00\, 0x0c\, 0x12\, 0x29\, 0x00\,\n            0x26\, 0xb2\, 0x11\, 0x00\, 0x01\, 0x00\, 0x00\, 0x00\n    \}\;|    byte\[\] padding \= \{\n            0x90\, 0xbe\, 0x27\, 0x88\, 0xcd\, 0x36\, 0xc2\, 0x4f\, 0xa9\, 0x87\, 0x73\, 0xa8\, 0x48\, 0x4e\, 0x84\, 0xb1\,\n            0x28\, 0x00\, 0x00\, 0x00\, 0x7e\, 0x3d\, 0x00\, 0x00\, 0x01\, 0x00\, 0x00\, 0x00\, 0x0c\, 0x12\, 0x29\, 0x00\,\n            0x26\, 0xb2\, 0x11\, 0x00\, 0x01\, 0x00\, 0x00\, 0x00\n    \}\;</find>
+      <find>comp</find>
+      <find>manualoperat</find>
+      <find>filec</find>
+      <find>border</find>
+      <find>pack fi</find>
+      <find>readF</find>
+      <find>f.setT</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/GxStringTable.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/gui/NtkStringTableModel.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/resourceeditor/gui/NtkStringTableModel.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/NtkStringTableModel.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/MainFrame.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/StringTablePanel.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/StringTableManager.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/NtkStringTableModel.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/gui/BmpTablePanel.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/ResourceEditor.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/gui/StringTablePanel.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/GxTable.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/BmpTableEditor.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/StringTableEditor.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/test/java/StringLoader.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/gui/RowNumberTable.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/gui/NtkStringTablePanel.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/gui/NtkStringTableModel.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/GxStringTable.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/NtkString.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/NtkBmpIO.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/GxImageTable.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/NtkImage.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/gui/MainFrame.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/gui/NtkImageTablePanel.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/ImageTableEditor.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/FontTableEditor.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/io/BMP_BPP.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/NtkBmpImage.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/GxFontTable.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/io/NtkBmpIO.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/test/java/ByteUtilTester.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/test/java/Tester.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/test/java/NtkFntImageTester.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/NtkFntImage.java" />
+        <option value="$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/ByteUtil.java" />
+        <option value="$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/natives/wrapper/BfcMode.java" />
+        <option value="$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/natives/NativeBridge.java" />
+        <option value="$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/PartitionSeparator.java" />
+        <option value="$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/gui/PartitionMergePanel.java" />
+        <option value="$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/gui/ManualBfcPanel.java" />
+        <option value="$PROJECT_DIR$/ntktool/pom.xml" />
+        <option value="$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/FirmwareInfo.java" />
+        <option value="$PROJECT_DIR$/ntktool/ntktool.iml" />
+        <option value="$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/gui/JPanelPartitionInfo.java" />
+        <option value="$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/gui/PartitionInfoPanel.java" />
+        <option value="$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/gui/QuickBfcPanel.java" />
+        <option value="$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/natives/wrapper/NativeProcessor.java" />
+        <option value="$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/natives/wrapper/BfcProcessor.java" />
+        <option value="$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/natives/wrapper/NtkcalcProcessor.java" />
+        <option value="$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/gui/BnGui.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-20" />
+    <option name="y" value="-23" />
+    <option name="width" value="2696" />
+    <option name="height" value="1188" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Since15</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Novatek tools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Novatek tools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="ntktool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Novatek tools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="ntktool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Novatek tools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="ntktool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Novatek tools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="ntktool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Novatek tools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="ntktool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ntktool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Novatek tools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="ntktool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ntktool" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Novatek tools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="ntktool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ntktool" type="462c0819:PsiDirectoryNode" />
+              <item name="natives" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Novatek tools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="ntktool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ntktool" type="462c0819:PsiDirectoryNode" />
+              <item name="natives" type="462c0819:PsiDirectoryNode" />
+              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Novatek tools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="ntktool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Novatek tools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="ntktool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="linux" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Novatek tools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="ntktool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Novatek tools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="ntktool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="win" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Novatek tools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="ntktool" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Novatek tools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="Novatek tools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.commons:commons-exec:1.3" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Java\Novatek\projects\ntktool\src\main\resources" />
+      <recent name="G:\Java\Novatek\projects\ntktool" />
+      <recent name="G:\Java\Novatek\projects\stringeditor\src\main\resources" />
+      <recent name="G:\Java\Novatek\projects\ntktool\src\main\resources\win" />
+      <recent name="G:\Java\Novatek\projects\ntktool\src\main\resources\gif" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="eu.pmc.ntktool" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Java\Novatek\projects\ntktool\src\main\resources\win" />
+      <recent name="G:\Java\Novatek\projects\ntktool\src\main\resources\linux" />
+      <recent name="G:\Java\Novatek\projects\stringeditor\src\main\resources" />
+      <recent name="G:\Java\Novatek\projects\stringeditor\src\main\java" />
+      <recent name="G:\Java\Novatek\projects\ntktool\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BnGui">
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BnGui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eu.pmc.ntktool.gui.BnGui" />
+      <module name="ntktool" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eu.pmc.ntk.uiresourceeditor.gui.MainFrame" />
+      <module name="stringeditor" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NtkFntImageTester.testFntImage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stringeditor" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NtkFntImageTester" />
+      <option name="METHOD_NAME" value="testFntImage" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester.byteToInt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stringeditor" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Tester" />
+      <option name="METHOD_NAME" value="byteToInt" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester.findAndExportBmpAt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stringeditor" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Tester" />
+      <option name="METHOD_NAME" value="findAndExportBmpAt" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Tester.findAndExportBmpAt" />
+      <item itemvalue="JUnit.Tester.byteToInt" />
+      <item itemvalue="JUnit.NtkFntImageTester.testFntImage" />
+      <item itemvalue="Application.BnGui" />
+      <item itemvalue="Application.MainFrame" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BnGui" />
+        <item itemvalue="Application.MainFrame" />
+        <item itemvalue="JUnit.Tester.findAndExportBmpAt" />
+        <item itemvalue="JUnit.NtkFntImageTester.testFntImage" />
+        <item itemvalue="JUnit.Tester.byteToInt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c2cae31-3ba9-4f1f-9401-45e2caee6000" name="Default" comment="" />
+      <created>1496398677361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1496398677361</updated>
+      <workItem from="1496398680453" duration="3191000" />
+      <workItem from="1496414146026" duration="18419000" />
+      <workItem from="1496450199170" duration="7000" />
+      <workItem from="1496485747833" duration="16859000" />
+      <workItem from="1496514007321" duration="6114000" />
+      <workItem from="1496525668880" duration="603000" />
+      <workItem from="1496854598823" duration="6584000" />
+      <workItem from="1497467306219" duration="11848000" />
+      <workItem from="1497530357201" duration="9336000" />
+      <workItem from="1497547415222" duration="15268000" />
+      <workItem from="1497625980230" duration="7920000" />
+      <workItem from="1497900487770" duration="3859000" />
+      <workItem from="1498249111166" duration="2723000" />
+      <workItem from="1498853512055" duration="3000" />
+      <workItem from="1499110507211" duration="121000" />
+      <workItem from="1501704628155" duration="893000" />
+      <workItem from="1501716940151" duration="598000" />
+      <workItem from="1502822611537" duration="643000" />
+      <workItem from="1517082173856" duration="335000" />
+      <workItem from="1533497156340" duration="2209000" />
+      <workItem from="1533549819729" duration="5421000" />
+      <workItem from="1533556174087" duration="41000" />
+      <workItem from="1533556243819" duration="16665000" />
+      <workItem from="1533721634379" duration="26000" />
+      <workItem from="1533721748047" duration="56000" />
+      <workItem from="1533722404673" duration="5942000" />
+      <workItem from="1533742417088" duration="806000" />
+      <workItem from="1533762722371" duration="67000" />
+      <workItem from="1534263341835" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ByteUtilTester_ByteUtilTest - 2017.06.23 at 22h 47m 59s.xml">
+      <configuration name="ByteUtilTester.ByteUtilTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ByteUtilTester_ByteUtilTest - 2017.06.23 at 22h 50m 17s.xml">
+      <configuration name="ByteUtilTester.ByteUtilTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NtkFntImageTester_testFntImage - 2017.06.23 at 22h 48m 09s.xml">
+      <configuration name="NtkFntImageTester.testFntImage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NtkFntImageTester_testFntImage - 2017.06.23 at 22h 55m 04s.xml">
+      <configuration name="NtkFntImageTester.testFntImage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NtkFntImageTester_testFntImage - 2017.06.23 at 23h 00m 37s.xml">
+      <configuration name="NtkFntImageTester.testFntImage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NtkFntImageTester_testFntImage - 2017.06.23 at 23h 01m 02s.xml">
+      <configuration name="NtkFntImageTester.testFntImage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NtkFntImageTester_testFntImage - 2017.06.23 at 23h 02m 05s.xml">
+      <configuration name="NtkFntImageTester.testFntImage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tester_byteToInt - 2017.06.23 at 22h 49m 17s.xml">
+      <configuration name="Tester.byteToInt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tester_byteToInt - 2017.06.23 at 22h 51m 02s.xml">
+      <configuration name="Tester.byteToInt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tester_findAndExportBmpAt - 2017.06.23 at 23h 03m 23s.xml">
+      <configuration name="Tester.findAndExportBmpAt" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="136583000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1924307" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4875" weight="0.32980973" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.31183368" weight="0.23752712" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.79375" weight="0.39957717" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49791667" weight="0.32980973" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50373137" side_tool="true" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.33102345" weight="0.3275488" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="IntelliGuard" order="12" sideWeight="0.49626866" weight="0.329718" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/Partition.java</url>
+          <line>31</line>
+          <properties class="eu.pmc.ntktool.Partition" method="getOffset">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/stringeditor/src/test/java/NtkFntImageTester.java</url>
+          <line>9</line>
+          <properties class="NtkFntImageTester" method="testFntImage">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/stringeditor/src/test/java/Tester.java</url>
+          <line>68</line>
+          <properties class="Tester" method="byteToInt">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/natives/wrapper/BfcMode.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/gui/NtkStringTablePanel.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/ByteUtil.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/test.java" />
+    <entry file="file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/natives/NativeReturnCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stringeditor/src/main/java/randomaccess/RandomAccessByteArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="84" column="16" selection-start-line="84" selection-start-column="16" selection-end-line="84" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/ResourceEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/gui/RowNumberTable.java" />
+    <entry file="file://$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/gui/NtkStringTablePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="38" column="60" selection-start-line="38" selection-start-column="60" selection-end-line="38" selection-end-column="60" />
+          <folding>
+            <element signature="imports" />
+            <element signature="e#1654#1655#0" />
+            <element signature="e#1691#1692#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/gui/NtkStringTableModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="61" column="23" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/NtkString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="86" column="24" selection-start-line="86" selection-start-column="24" selection-end-line="86" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/gui/NtkImageTable.java" />
+    <entry file="file://$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/gui/BmpTablePanel.java" />
+    <entry file="file://$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/gui/NtkImageTablePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/io/BMP_BPP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stringeditor/src/main/java/randomaccess/LERandomAccessByteArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3094">
+          <caret line="218" column="16" selection-start-line="218" selection-start-column="16" selection-end-line="218" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/StringTableEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/FontTableEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="54" column="9" selection-start-line="24" selection-start-column="8" selection-end-line="54" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/NtkBmpImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/NtkFntImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="71" column="62" selection-start-line="71" selection-start-column="62" selection-end-line="71" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stringeditor/src/test/java/NtkFntImageTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stringeditor/src/test/java/Tester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="47" column="46" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/io/NtkBmpIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="71" column="49" selection-start-line="71" selection-start-column="49" selection-end-line="71" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/ByteUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/GxTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/GxStringTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" selection-start-line="14" selection-end-line="15" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/GxFontTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="57" column="89" selection-start-line="57" selection-start-column="89" selection-end-line="57" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stringeditor/src/test/java/ByteUtilTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stringeditor/src/test/java/StringLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/Partition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-487">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/gui/BfcModeButtonGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/gui/BfcModeButtonModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/gui/PartitionMergePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="100" column="47" selection-start-line="100" selection-start-column="47" selection-end-line="100" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ntktool/src/main/resources/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/FirmwareInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/FirmwareType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/CustomExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stringeditor/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/BnManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="29" column="74" selection-start-line="29" selection-start-column="74" selection-end-line="29" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ntktool/ntktool.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="35" column="14" lean-forward="true" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/gui/PartitionInfoPanel.java" />
+    <entry file="file://$PROJECT_DIR$/stringeditor/src/main/java/eu/pmc/ntk/uiresourceeditor/gui/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="46" column="56" selection-start-line="46" selection-start-column="56" selection-end-line="46" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/gui/QuickBfcPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="97" column="4" selection-start-line="97" selection-start-column="4" selection-end-line="97" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/gui/ManualBfcPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/gui/BnGui.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/natives/NativeBridge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ntktool/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/natives/wrapper/BfcMode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/natives/wrapper/NtkcalcProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/natives/wrapper/NativeProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/natives/wrapper/BfcProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ntktool/src/main/java/eu/pmc/ntktool/PartitionSeparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" column="106" selection-start-line="13" selection-start-column="106" selection-end-line="13" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>ntktool:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Obfuscation</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Obfuscation|ntktool</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: javax.activation:activation:1.1.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
